@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KLAD05_ActivityLifecycle</string>
+    <string name="stopwatch">StopWatch</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>
